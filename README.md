@@ -31,7 +31,7 @@ Sigue estos pasos para correr la aplicación en tu computadora local.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/kindle-analytics.git
+git clone https://github.com/victorfranco97/kindle_clippings_formatting.git
 cd kindle-analytics
 
 ```
